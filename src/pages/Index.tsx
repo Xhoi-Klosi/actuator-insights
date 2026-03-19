@@ -17,6 +17,7 @@ const latest = mockTelemetry[mockTelemetry.length - 1];
 
 export default function Index() {
   return (
+    <AiAssistantProvider>
     <div className="dark min-h-screen bg-background">
       <div className="mx-auto max-w-7xl space-y-5 p-4 md:p-6">
         {/* Header */}
