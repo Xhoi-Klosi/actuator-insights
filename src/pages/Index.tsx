@@ -119,6 +119,7 @@ export default function Index() {
       {/* AI Assistant */}
       <AiAssistant />
     </div>
+    </AiAssistantProvider>
   );
 }
 
