@@ -60,55 +60,55 @@
   }
 
   .dark {
-    --background: 230 30% 6%;
-    --foreground: 215 25% 93%;
+    --background: 235 35% 10%;
+    --foreground: 210 30% 95%;
 
-    --card: 232 28% 9%;
-    --card-foreground: 215 25% 93%;
+    --card: 238 30% 13%;
+    --card-foreground: 210 30% 95%;
 
-    --popover: 232 28% 9%;
-    --popover-foreground: 215 25% 93%;
+    --popover: 238 30% 13%;
+    --popover-foreground: 210 30% 95%;
 
-    --primary: 210 100% 55%;
+    --primary: 200 100% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 232 22% 13%;
-    --secondary-foreground: 215 25% 93%;
+    --secondary: 240 25% 17%;
+    --secondary-foreground: 210 30% 95%;
 
-    --muted: 232 22% 13%;
-    --muted-foreground: 218 15% 50%;
+    --muted: 240 25% 17%;
+    --muted-foreground: 220 20% 55%;
 
-    --accent: 160 70% 45%;
+    --accent: 165 75% 46%;
     --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 75% 50%;
+    --destructive: 0 80% 55%;
     --destructive-foreground: 0 0% 100%;
 
     --warning: 38 95% 55%;
     --warning-foreground: 38 95% 15%;
 
-    --success: 160 70% 45%;
+    --success: 165 75% 46%;
     --success-foreground: 0 0% 100%;
 
-    --border: 232 18% 14%;
-    --input: 232 18% 14%;
-    --ring: 210 100% 55%;
+    --border: 240 20% 20%;
+    --input: 240 20% 20%;
+    --ring: 200 100% 55%;
 
-    --sidebar-background: 234 28% 8%;
-    --sidebar-foreground: 215 25% 93%;
-    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-background: 238 32% 11%;
+    --sidebar-foreground: 210 30% 95%;
+    --sidebar-primary: 200 100% 55%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 232 22% 13%;
-    --sidebar-accent-foreground: 215 25% 93%;
-    --sidebar-border: 232 18% 14%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-accent: 240 25% 17%;
+    --sidebar-accent-foreground: 210 30% 95%;
+    --sidebar-border: 240 20% 20%;
+    --sidebar-ring: 200 100% 55%;
 
-    --gradient-blue: 210 100% 55%;
-    --gradient-cyan: 185 80% 50%;
-    --gradient-emerald: 160 70% 45%;
+    --gradient-blue: 200 100% 55%;
+    --gradient-cyan: 185 85% 52%;
+    --gradient-emerald: 165 75% 46%;
     --gradient-amber: 38 95% 55%;
-    --gradient-rose: 350 80% 55%;
-    --gradient-violet: 270 75% 60%;
+    --gradient-rose: 350 85% 58%;
+    --gradient-violet: 265 80% 62%;
   }
 }
 
