@@ -75,6 +75,9 @@ export default function Index() {
             {/* Predictive Analysis */}
             <PredictivePanel />
 
+            {/* Gamification */}
+            <GamificationPanel />
+
             {/* Charts */}
             <Tabs defaultValue="torque" className="space-y-4">
               <TabsList className="bg-secondary/80">
