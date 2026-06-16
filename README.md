@@ -1,25 +1,4 @@
-# Actuator Insights
-
-<div align="center">
-
 # Belimo Actuator Health Monitor
-
-### Predictive Maintenance Dashboard for Industrial IoT Systems
-
-Real-time telemetry analytics, anomaly detection, actuator health scoring, and AI-assisted diagnostics for industrial monitoring environments.
-
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-cyan?logo=tailwindcss)
-![Recharts](https://img.shields.io/badge/Recharts-Data_Visualization-orange)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-Time--Series-black?logo=influxdb)
-![IoT](https://img.shields.io/badge/Industrial-IoT-success)
-![Status](https://img.shields.io/badge/Status-Prototype-orange)
-
-</div>
-
----
 
 # Overview
 
@@ -259,64 +238,6 @@ Example capabilities:
 
 ---
 
-# Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/KlosiXhoi/actuator-insights.git
-```
-
----
-
-## Navigate Into Project
-
-```bash
-cd actuator-insights
-```
-
----
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## Build for Production
-
-```bash
-npm run build
-```
-
----
-
-# Testing
-
-## Run Unit Tests
-
-```bash
-npm run test
-```
-
-## Run Watch Mode
-
-```bash
-npm run test:watch
-```
-
----
-
 # Current Status
 
 Current implementation includes:
@@ -348,34 +269,6 @@ Potential future extensions include:
 
 ---
 
-# Screenshots
-
-## Dashboard Overview
-
-_Add dashboard screenshot here_
-
-## Telemetry Visualization
-
-_Add telemetry chart screenshot here_
-
-## Predictive Maintenance Panel
-
-_Add predictive maintenance screenshot here_
-
-## AI Assistant
-
-_Add AI assistant screenshot here_
-
----
-
-# Contributors
-
-Developed collaboratively as part of an Industrial IoT monitoring and predictive analytics initiative.
-
-Contributors include repository collaborators and project team members.
-
----
-
 # Academic Context
 
 This project demonstrates concepts related to:
@@ -388,12 +281,6 @@ This project demonstrates concepts related to:
 - Telemetry Processing
 - Smart Manufacturing Dashboards
 - AI-Assisted Diagnostics
-
----
-
-# License
-
-This project is intended for educational, research, and prototype demonstration purposes.
 
 ---
 
