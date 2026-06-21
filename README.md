@@ -2,7 +2,7 @@
 
 # Overview
 
-Actuator Insights is an Industrial IoT monitoring and predictive maintenance platform designed to visualize actuator telemetry data, detect operational anomalies, as well as estimate system failure probabilities in real time.
+Actuator Insights is an Industrial IoT monitoring and predictive maintenance platform designed to visualize actuator telemetry data, detect operational anomalies, and estimate system failure probabilities in real time.
 
 The platform provides an intelligent dashboard environment for monitoring actuator health metrics such as:
 
